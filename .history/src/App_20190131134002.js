@@ -15,10 +15,10 @@ class App extends Component {
       <Container>
         <Row>
           <Col lg="6">
-            <Suite id="SUITE1">
+            <Suite>
               <SharedGroup items={["Add"]} />
             </Suite>
-            <Suite id="SUITE2">
+            <Suite>
               <SharedGroup items={["Add"]} />
             </Suite>
           </Col>
